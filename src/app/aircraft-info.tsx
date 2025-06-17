@@ -4,22 +4,22 @@ export interface AircraftInfoTypeProps {
 
 const InfoContent = () => {
     return (<div>
-        <b>Origin:</b>United States<br />
-        <b>Manufacturer:</b> Lockheed Aircraft Corporation<br />
-        <b>First Flight:</b> December 22, 1964<br />
-        <b>Service Entry:</b> January , 1966<br />
-        <b>Height:</b> 18 ft 6 in (5.64 m)<br />
-        <b>Wingspan:</b> 55 ft 7 in (16.94 m)<br />
-        <b>Length:</b> 107 ft 5 in (32.74 m)<br />
-        <b>Top Speed:</b> Mach 3.2 (≈2,200 mph; ~3,540 km/h)<br />
-        <b>Service Ceiling:</b> ~85,000 ft (~25,900 m)<br />
+        <b>Origin:</b> United States<br />
+        <b>Manufacturer:</b> Northrop Grumman Corporation<br />
+        <b>First Flight:</b> July 17, 1989<br />
+        <b>Service Entry:</b> January 1, 1997<br />
+        <b>Height:</b> 17 ft (5.1 m)<br />
+        <b>Wingspan:</b> 172 ft (52.4 m)<br />
+        <b>Length:</b> 69 ft (20.9 m)<br />
+        <b>Top Speed:</b> High subsonic (approx. Mach 0.85; ~630 mph; ~1,010 km/h)<br />
+        <b>Service Ceiling:</b> 50,000 ft (15,240 m)<br />
         <b>Crew (Passengers):</b> 2
     </div>)
 };
 
 const HistoryContent = () => {
     return (<div>
-        <p>The SR‑71 Blackbird, developed from the earlier A‑12 project in the late 1950s by Lockheed’s secretive Skunk Works under Clarence Johnson, made its maiden flight on December 22, 1964, and officially entered service in January 1966. Constructed largely from titanium and coated with heat-radiating black paint, it was designed to surpass the U‑2 spy plane in speed and altitude to avoid enemy defenses. Capable of sustained speeds over Mach 3 and cruising at around 85,000 ft, the Blackbird collected intelligence across hostile territories during the Cold War without a single loss to enemy fire. It set and still holds records for absolute altitude, speed (Mach 3.3), and trans‑Atlantic flight time—such as New York to London in under 1h55min. The USAF retired the fleet in 1989, briefly reactivated them in the mid‑1990s, and NASA continued limited flights until final retirement in 1999.</p>
+        <p>The B-2 Spirit, a revolutionary heavy strategic bomber, was developed by Northrop Grumman as part of the Advanced Technology Bomber (ATB) program, designed to incorporate cutting-edge stealth technology to penetrate sophisticated air defenses. Its first public display was on November 22, 1988, and it made its maiden flight on July 17, 1989. The B-2 officially entered service on January 1, 1997. Its unique &quot;flying wing&quot; design, combined with composite materials and special coatings, makes it virtually invisible to most radar systems. Primarily designed for nuclear deterrence during the Cold War, its role shifted to conventional weapons delivery after the fall of the Soviet Union. The B-2 first saw combat in the Kosovo War in 1999, followed by operations in Afghanistan and Iraq. Capable of delivering massive payloads of conventional or nuclear munitions anywhere in the world with aerial refueling, the B-2 Spirit remains a critical asset for global power projection and strategic deterrence.</p>
     </div>)
 };
 
